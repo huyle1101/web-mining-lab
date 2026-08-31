@@ -2,5 +2,6 @@ data/
 venv/
 **/__pycache__/
 beautifulsoup_cheatsheet.md
+cheatsheet_selenium.md
 *.jpeg
 web_crawling/bao_thanh_nien_ouput/
