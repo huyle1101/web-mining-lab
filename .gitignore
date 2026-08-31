@@ -3,3 +3,4 @@ venv/
 **/__pycache__/
 beautifulsoup_cheatsheet.md
 *.jpeg
+web_crawling/bao_thanh_nien_ouput/
